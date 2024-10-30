@@ -1,0 +1,67 @@
+body {
+margin: 0;
+padding: 0;  
+background-color: blue;  
+}
+
+.them {
+    text-align: center;
+    margin-top: 150px;
+}
+ 
+ .me {
+    background-color: red;
+    margin-left: 695px;
+    margin-right: 695px;
+    color: white;
+ }
+
+ .him {
+    color: aquamarine;
+    font-size: 3em;
+ }
+
+ #he {
+    margin-top: 0%;
+ }
+
+ .her {
+    font-family: cursive;
+    text-align: center;
+    color: white;
+ }
+ 
+
+ .you {
+    text-align: center;
+    font-size: 2em;
+    color: yellow;
+    margin-top: 0;
+ }
+
+ .we {
+    text-align: center;
+    color: yellow;
+    margin-top: 0;
+ }
+
+.on {
+text-align: center;   
+background-color: white;
+margin-left: 610px;
+margin-right: 675px;
+border: 3px solid red; 
+}
+
+.hhh {
+text-align: center;   
+color: white;
+margin-left: 310px;
+margin-right: 675px;
+
+}
+ 
+.ss {
+   margin-left:975px;
+   
+}
